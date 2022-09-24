@@ -23,7 +23,7 @@ export const Home = observer(() => {
           <Image src={'images/v2.png'} w={'100%'} />
         </ChakraLink>
         <Text mt={5}>
-          IoTeX Dapp {lang.t('sample')} V2
+          12 HS Finance {lang.t('sample')}
         </Text>
         <Flex mt={5}>
           {
